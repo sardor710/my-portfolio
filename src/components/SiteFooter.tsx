@@ -8,7 +8,7 @@ export function SiteFooter() {
         <div>
           <Image
             src="/images/logo-footer.svg"
-            alt="Dahlia Floral & Event Design"
+            alt="Moret Flowers"
             width={200}
             height={120}
             className="h-24 w-auto"
@@ -18,12 +18,12 @@ export function SiteFooter() {
         {/* Address + hours */}
         <div className="font-serif text-[15px] leading-relaxed text-white/85">
           <p className="underline decoration-white/30 underline-offset-4">
-            5 Lanza Avenue
+            Улица Амира Темура, 15
             <br />
-            Garfield, New Jersey 07026
+            Ташкент, 100084, Узбекистан
           </p>
           <div className="mt-6 space-y-1 text-white/70">
-            <p>Вт – Сб / 9:00 – 17:00</p>
+            <p>Вт – Сб / 9:00 – 20:00</p>
             <p>Вт – Чт / вечерние консультации</p>
             <p>Вс – Пн / выходной</p>
           </div>
@@ -33,17 +33,17 @@ export function SiteFooter() {
         <div className="font-serif text-[15px] leading-relaxed text-white/85">
           <p className="font-semibold">Эл. почта</p>
           <a
-            href="mailto:info@dahliaflorals.com"
+            href="mailto:info@moretflowers.uz"
             className="text-white/70 underline decoration-white/30 underline-offset-4 hover:text-white"
           >
-            info@dahliaflorals.com
+            info@moretflowers.uz
           </a>
           <p className="mt-6 font-semibold">Телефон</p>
           <a
-            href="tel:+19737720219"
+            href="tel:+998712007007"
             className="text-white/70 underline decoration-white/30 underline-offset-4 hover:text-white"
           >
-            +1 973. 772. 0219
+            +998 71 200 70 07
           </a>
         </div>
 
@@ -78,8 +78,9 @@ export function SiteFooter() {
 
       <div className="mx-auto max-w-7xl px-8 pb-10 lg:px-16">
         <p className="font-serif text-xs text-white/45">
-          © 2024 Dahlia Floral &amp; Event Design. Все права защищены. Дизайн и
-          код: <span className="font-semibold text-white/70">Taktic Studio</span>
+          © 2026 Moret Flowers. Все права защищены. Свадебный и событийный
+          цветочный декор в{" "}
+          <span className="font-semibold text-white/70">Ташкенте</span>
         </p>
       </div>
     </footer>

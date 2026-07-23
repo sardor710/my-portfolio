@@ -56,7 +56,7 @@ export function DelicateTouch() {
         {/* Copy */}
         <Reveal className="order-1 md:order-2">
           <h2 className="d-display text-[42px] leading-[1.05] sm:text-[58px]">
-            Нежное прикосновение Dahlia
+            Нежное прикосновение Moret
           </h2>
           <p className="mt-8 max-w-md font-display text-2xl leading-snug text-ink">
             Мы украшаем каждую свадьбу трепетным декором, который создаёт
@@ -65,7 +65,7 @@ export function DelicateTouch() {
           <p className="mt-6 max-w-md font-serif text-lg leading-relaxed text-ink/80">
             От свежих цветочных композиций до потрясающих сервировок при свечах и
             романтичных свадебных букетов — мы добавим наше творческое
-            прикосновение Dahlia, чтобы вы почувствовали себя королевской особой.
+            прикосновение Moret, чтобы вы почувствовали себя королевской особой.
           </p>
           <a href="#top" className="d-link mt-10">
             Смотреть галерею

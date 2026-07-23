@@ -7,9 +7,9 @@ import { DahliaTeam } from "@/components/about/DahliaTeam";
 import { AboutQuote } from "@/components/about/AboutQuote";
 
 export const metadata: Metadata = {
-  title: "О нас | Dahlia Floral & Event Design",
+  title: "О нас | Moret Flowers",
   description:
-    "Наши цветочные композиции превосходят обыденное, добавляя особую нотку волшебства в день вашей свадьбы. Познакомьтесь с командой Dahlia Floral & Event Design.",
+    "Наши цветочные композиции превосходят обыденное, добавляя особую нотку волшебства в день вашей свадьбы. Познакомьтесь с командой Moret Flowers в Ташкенте.",
 };
 
 export default function AboutPage() {

@@ -15,7 +15,7 @@ export function DahliaTeam() {
           >
             <Image
               src={src}
-              alt={`Команда Dahlia за работой ${i + 1}`}
+              alt={`Команда Moret за работой ${i + 1}`}
               fill
               sizes="340px"
               className="object-cover"
@@ -27,7 +27,7 @@ export function DahliaTeam() {
       <div className="mx-auto max-w-7xl px-8 lg:px-16">
         <Reveal className="max-w-2xl pt-8">
           <h2 className="d-display text-[46px] leading-[1.02] sm:text-[58px]">
-            Команда Dahlia
+            Команда Moret
           </h2>
           <p className="mt-8 max-w-xl font-serif text-lg leading-relaxed text-ink/80">
             Наша замечательная команда готова помочь вам даже с самым сложным

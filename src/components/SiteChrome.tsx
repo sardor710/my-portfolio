@@ -100,7 +100,7 @@ export function SiteChrome() {
         <div className="flex w-[120px] items-center justify-center bg-white sm:w-[150px]">
           <Image
             src="/images/logo-header.svg"
-            alt="Dahlia Floral & Event Design"
+            alt="Moret Flowers"
             width={64}
             height={40}
             className="h-9 w-auto"
@@ -179,7 +179,7 @@ export function SiteChrome() {
         <div className="relative hidden w-1/2 items-center justify-center bg-white md:flex">
           <Image
             src="/images/logo-header.svg"
-            alt="Dahlia"
+            alt="Moret Flowers"
             width={150}
             height={90}
             className="absolute right-10 top-8 h-16 w-auto"

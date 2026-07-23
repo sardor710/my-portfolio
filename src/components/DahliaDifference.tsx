@@ -10,7 +10,7 @@ export function DahliaDifference() {
           <h2 className="d-display text-[46px] leading-[1.02] sm:text-[64px]">
             Особый почерк
             <br />
-            Dahlia
+            Moret
           </h2>
         </Reveal>
         <p className="mt-8 max-w-md font-display text-2xl leading-snug">
@@ -25,7 +25,7 @@ export function DahliaDifference() {
             позволяет наполнять каждую композицию страстью и творчеством.
           </p>
           <a href="#delicate" className="d-link mt-8">
-            Dahlia в действии
+            Moret в действии
           </a>
         </Reveal>
       </div>

@@ -19,9 +19,9 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "Dahlia Floral & Event Design | Свадебный цветочный декор",
+  title: "Moret Flowers | Свадебный цветочный декор в Ташкенте",
   description:
-    "Захватывающий цветочный декор, украшающий день вашей мечты. Dahlia Floral & Event Design — потрясающие цветочные произведения искусства для вашей свадьбы.",
+    "Захватывающий цветочный декор, украшающий день вашей мечты. Moret Flowers — потрясающие цветочные произведения искусства для вашей свадьбы в Ташкенте.",
 };
 
 export default function RootLayout({
